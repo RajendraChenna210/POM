@@ -1,0 +1,5 @@
+Application opened
+Wait statement executed
+Login Complted
+Verification completed
+Wait statement executed

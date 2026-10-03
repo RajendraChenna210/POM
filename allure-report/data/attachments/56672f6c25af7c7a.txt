@@ -1,0 +1,3 @@
+Login Complted
+Clicked on Add Employee
+TC002 executed successfully - Add Employee page opened
